@@ -4,7 +4,7 @@ size(500,500);
 }
 public void draw()
 {
-sierpinski(50,100,100);
+sierpinski(250,250,100);
 }
 
 public void mouseDragged()//optional
